@@ -9,7 +9,7 @@
 
 ocamlPackages.buildDunePackage rec {
   pname = "ligo";
-  version = "3982297452";
+  version = "0.71.0";
   src = fetchFromGitLab {
     owner = "ligolang";
     repo = "ligo";
